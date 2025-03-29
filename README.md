@@ -11,3 +11,5 @@ YOLOv8 (Ultralytics) – Object detection model<br>
 OpenCV – Image processing & visualization<br>
 Streamlit – Interactive web interface<br>
 PIL (Pillow) – Image handling<br>
+
+Note: The Model is not uploaded here; it'll be download when the script is run
