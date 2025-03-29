@@ -1,8 +1,13 @@
 # AI-Object-Detector-Explainer
-This is an AI-powered application that detects objects in images and explains them using Gemini AI.<br>
-Features:<br>
-✅ Object Detection – Uses YOLOv8 (Large Model) to identify objects in images<br>
-✅ AI Explanations – Gemini AI provides simple explanations for detected objects<br>
-✅ Fun Facts – Get an interesting fact about each object<br>
-✅ Text-to-Speech – Hear the AI-generated explanations aloud<br>
-✅ User-Friendly UI – Built with Streamlit for easy interaction<br>
+An AI-powered image annotation tool that detects objects, allows users to edit labels, and saves structured annotations!<br>
+### Features:<br>
+✅ Real-time object detection via webcam
+✅ Real-time Object Detection – Uses YOLOv8 (large model) for high-speed detection<br>
+✅ Bounding Box Visualization – Highlights detected objects on images<br>
+✅ Editable Labels – Modify object names before saving annotations<br>
+✅ Streamlit-Powered UI – Simple, interactive, and user-friendly<br>
+### Technologies Used:<br>
+YOLOv8 (Ultralytics) – Object detection model<br>
+OpenCV – Image processing & visualization<br>
+Streamlit – Interactive web interface<br>
+PIL (Pillow) – Image handling<br>
