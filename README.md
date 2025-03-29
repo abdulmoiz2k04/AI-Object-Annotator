@@ -1,4 +1,4 @@
-# AI-Object-Detector-Explainer
+# AI-Object-Annotator
 An AI-powered image annotation tool that detects objects, allows users to edit labels, and saves structured annotations!<br>
 ### Features:<br>
 ✅ Real-time object detection via webcam
